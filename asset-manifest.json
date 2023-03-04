@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/DigitalClock/static/js/main.dbfb4a18.js",
+    "index.html": "/DigitalClock/index.html",
+    "main.dbfb4a18.js.map": "/DigitalClock/static/js/main.dbfb4a18.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dbfb4a18.js"
+  ]
+}
